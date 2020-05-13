@@ -1,0 +1,15 @@
+.vagrant/machines/default/hyperv/action_configure
+.vagrant/machines/default/hyperv/action_provision
+.vagrant/machines/default/hyperv/action_set_name
+.vagrant/machines/default/hyperv/box_meta
+.vagrant/machines/default/hyperv/creator_uid
+.vagrant/machines/default/hyperv/id
+.vagrant/machines/default/hyperv/index_uuid
+.vagrant/machines/default/hyperv/private_key
+.vagrant/machines/default/hyperv/synced_folders
+.vagrant/machines/default/hyperv/vagrant_cwd
+.vagrant/machines/default/hyperv/Virtual Hard Disks/ubuntu-18.04-amd64.vhdx
+.vagrant/machines/default/hyperv/Virtual Machines/51BD740B-BB63-4FBF-8AF2-A23807A7C2B7.vmcx
+.vagrant/machines/default/hyperv/Virtual Machines/51BD740B-BB63-4FBF-8AF2-A23807A7C2B7.vmgs
+.vagrant/machines/default/hyperv/Virtual Machines/51BD740B-BB63-4FBF-8AF2-A23807A7C2B7.VMRS
+.vagrant/rgloader/loader.rb
